@@ -1,0 +1,14 @@
+.jumbotron{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 6rem;
+    background-color: white;
+}
+
+
+body{
+    min-height: 2000px;
+}
+
+section{
+    padding-top: 5rem;
+}
